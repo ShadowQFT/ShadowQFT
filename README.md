@@ -6,6 +6,12 @@ physics and contribute to Java open-source projects.
 
 ## Research software
 
+[phi4 Monte Carlo simulator](https://github.com/ShadowQFT/phi4)
+
+C++17 simulation of a three-dimensional scalar field, with CMake/CTest,
+optional MPI parallel tempering, and Python analysis. Windows and Linux
+builds run the numerical and workflow checks in GitHub Actions.
+
 [J1-J2 simulations and research data](https://github.com/ShadowQFT/J1J2-public)
 
 Fortran/MPI Monte Carlo simulation code for a random-field spin model, with run
